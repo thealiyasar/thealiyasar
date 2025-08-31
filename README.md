@@ -20,7 +20,7 @@ I develop **React** projects at an intermediate level and have beginner-level ex
 ## 🌐 Social Media & Contact
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Ali%20Yaşar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thealiyasar)
-[![Twitter](https://img.shields.io/badge/Twitter-@Ali%20Yaşar-blue?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/thealiyasar)
+[![Twitter](https://img.shields.io/badge/Twitter-@Ali%20Yaşar-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thealiyasar)
 [![E-Mail](https://img.shields.io/badge/Gmail-@Ali%20Yaşar-blue?style=for-the-badge&logo=google&logoColor=white)](mailto:thealiyasar@gmail.com)
 
 ---
