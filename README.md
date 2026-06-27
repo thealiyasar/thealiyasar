@@ -1,6 +1,6 @@
 # Hello, I’m Ali Yaşar! 👋
 
-**JavaScript / React Developer** | Turkey
+**Frontend Developer | React & JavaScript** | Türkiye
 
 I develop **React** projects at an intermediate level and have beginner-level experience with **Node.js** & **TypeScript**. Exploring modern web technologies and building high-performance applications are among my main passions.
 
