@@ -1,32 +1,72 @@
-# Hello, I’m Ali Yaşar! 👋
 
-**Frontend Developer | React & JavaScript** | Türkiye
+# Hi, I'm Ali Yaşar 👋
 
-I develop **React** projects at an intermediate level and have beginner-level experience with **Node.js** & **TypeScript**. Exploring modern web technologies and building high-performance applications are among my main passions.
+Frontend Developer focused on React, JavaScript and modern web interfaces.
 
----
-
-## 💻 Technologies & Tools
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+I build responsive, user-friendly and maintainable web applications with React.  
+My current focus is improving my frontend architecture, TypeScript, API integration and state management skills through real-world projects.
 
 ---
 
-## 🌐 Social Media & Contact
+## About Me
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Ali%20Yaşar-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thealiyasar)
-[![Twitter](https://img.shields.io/badge/Twitter-@Ali%20Yaşar-blue?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thealiyasar)
-[![E-Mail](https://img.shields.io/badge/Gmail-@Ali%20Yaşar-blue?style=for-the-badge&logo=google&logoColor=white)](mailto:thealiyasar@gmail.com)
+- Frontend Developer focused on React and JavaScript
+- Building responsive web interfaces with clean component-based structures
+- Experienced with form handling, API integration, state management and multilingual UI logic
+- Currently improving TypeScript, Node.js and scalable frontend architecture
+- Open to Junior Frontend Developer, React Developer and Web Developer roles
 
 ---
 
-## 📈 GitHub Statistics
+## Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thealiyasar&show_icons=true&theme=radical)
+**Frontend:**  
+React, JavaScript ES6+, TypeScript, HTML5, CSS3
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=thealiyasar)
+**Styling:**  
+Tailwind CSS, Bootstrap, SCSS, Responsive Design, Flexbox, CSS Grid
+
+**State & Forms:**  
+Zustand, Redux Toolkit, Context API, React Hook Form
+
+**API & Tools:**  
+REST API, JSON, Axios, Fetch API, Git, GitHub, npm, Vite
+
+**Workflow:**  
+VS Code, PhpStorm, Chrome DevTools, Figma
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [Basic CV Multi-Step Form](https://github.com/thealiyasar/basic-cv-step-form) | Multi-step job application form with validation, global state management, dark mode and Turkish/English language support. | React, Vite, Zustand, React Hook Form, Tailwind CSS |
+| [React Random User App](https://github.com/thealiyasar/react-random-user) | Random user listing app with API integration, region/gender filters and JSON data download feature. | React, Vite, Axios, Tailwind CSS |
+| [React Redo/Undo App](https://github.com/thealiyasar/react-redo-undo) | Interactive React app that allows users to create points on screen and manage them with undo/redo logic. | React, JavaScript, CSS |
+| [Todo App](https://github.com/thealiyasar/todoApp) | Multi-language todo application with theme support and local state management. | React, Styled Components, JavaScript |
+
+---
+
+## What I'm Working On
+
+- Improving TypeScript usage in React projects
+- Building cleaner and reusable component structures
+- Practicing advanced form validation and state management
+- Developing portfolio-ready frontend projects
+
+---
+
+## Contact
+
+- X: https://x.com/thealiyasar
+- LinkedIn: https://www.linkedin.com/in/thealiyasar 
+- Email: thealiyasar[at]gmail.com
+
+---
+
+## GitHub Stats
+
+![Ali Yaşar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiyasar&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thealiyasar&layout=compact)
